@@ -1,0 +1,4 @@
+Bundle-Name: youtube
+Bundle-SymbolicName: com.eversis.youtube
+Bundle-Version: 1.0.0
+Export-Package: com.eversis.youtube
